@@ -13,7 +13,9 @@ It's a big concern to me so please do your part and contribute.
 
 Before We Start
 ===============
-Before we start development it would be really helpful if everyone took the time took the time to learn about using [git](http://www.vogella.com/articles/Git/article.html), [github](http://zachholman.com/talk/how-github-uses-github-to-build-github/), [github APIs](http://developer.github.com/v3/), [diaspora*](https://github.com/diaspora/diaspora), [gitlab](https://github.com/gitlabhq/gitlabhq), and [AWS](https://aws.amazon.com) as we may or may not use more than one of these. Please come to me with questions.
+Before we start development it would be really helpful if everyone took the time took the time to learn about using [git](http://www.vogella.com/articles/Git/article.html), [github](http://zachholman.com/talk/how-github-uses-github-to-build-github/), [github APIs](http://developer.github.com/v3/), [diaspora*](https://github.com/diaspora/diaspora), [gitlab](https://github.com/gitlabhq/gitlabhq), [heroku](http://www.heroku.com/), and [AWS](https://aws.amazon.com) as we may or may not use more than one of these. Please come to me with questions.
+
+More fanciness may come later like [jenkins](http://jenkins-ci.org/) and even facebook integration.
 
 Contact Me
 ==========
