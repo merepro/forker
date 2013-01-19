@@ -21,20 +21,20 @@ More fanciness may come later like [jenkins](http://jenkins-ci.org/) and even fa
 
 More to read
 ============
-[Rails book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
-[Rails for zombies](http://railsforzombies.org/)
-[jenkins](http://jenkins-ci.org/)
-[git](http://www.vogella.com/articles/Git/article.html)
-[github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
-[diaspora*](https://github.com/diaspora/diaspora)
-[gitlab](https://github.com/gitlabhq/gitlabhq)
-[heroku](http://www.heroku.com/)
-[AWS](https://aws.amazon.com/)
-  [EC2](aws.amazon.com/ec2/)
-  [S3](aws.amazon.com/s3/)
-  [DynamofuckingDB](aws.amazon.com/dynamodb/)
-[Etherpad](http://etherpad.org/)
-[rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build)
+[Rails book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)<br/>
+[Rails for zombies](http://railsforzombies.org/)<br/>
+[jenkins](http://jenkins-ci.org/)<br/>
+[git](http://www.vogella.com/articles/Git/article.html)<br/>
+[github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)<br/>
+[diaspora*](https://github.com/diaspora/diaspora)<br/>
+[gitlab](https://github.com/gitlabhq/gitlabhq)<br/>
+[heroku](http://www.heroku.com/)<br/>
+[AWS](https://aws.amazon.com/)<br/>
+  [EC2](aws.amazon.com/ec2/)<br>
+  [S3](aws.amazon.com/s3/)<br/>
+  [DynamofuckingDB](aws.amazon.com/dynamodb/)<br/>
+[Etherpad](http://etherpad.org/)<br/>
+[rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build)<br/>
 
 Contact Me
 ==========
