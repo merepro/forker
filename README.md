@@ -9,6 +9,8 @@ Getting Involved
 ================
 One the biggest requirements of Forker is the ability to get involved easily. I will be posting several tutorials based on the needs of students. I will also be hosting several meetings to discuss how and what this is going to be.
 
+To get started just fork the repo and send a pull request whenever the feature you're working on is up to date.
+
 It's a big concern to me so please do your part and contribute.
 
 Before We Start
@@ -16,6 +18,23 @@ Before We Start
 Before we start development it would be really helpful if everyone took the time took the time to learn about using [git](http://www.vogella.com/articles/Git/article.html), [github](http://zachholman.com/talk/how-github-uses-github-to-build-github/), [github APIs](http://developer.github.com/v3/), [diaspora*](https://github.com/diaspora/diaspora), [gitlab](https://github.com/gitlabhq/gitlabhq), [heroku](http://www.heroku.com/), and [AWS](https://aws.amazon.com) as we may or may not use more than one of these. Please come to me with questions.
 
 More fanciness may come later like [jenkins](http://jenkins-ci.org/) and even facebook integration.
+
+More to read
+============
+[Rails book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+[Rails for zombies](http://railsforzombies.org/)
+[jenkins](http://jenkins-ci.org/)
+[git](http://www.vogella.com/articles/Git/article.html)
+[github](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
+[diaspora*](https://github.com/diaspora/diaspora)
+[gitlab](https://github.com/gitlabhq/gitlabhq)
+[heroku](http://www.heroku.com/)
+[AWS](https://aws.amazon.com/)
+  [EC2](aws.amazon.com/ec2/)
+  [S3](aws.amazon.com/s3/)
+  [DynamofuckingDB](aws.amazon.com/dynamodb/)
+[Etherpad](http://etherpad.org/)
+[rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build)
 
 Contact Me
 ==========
